@@ -8,8 +8,8 @@ package Tugas9Teks;
 /**
  *
  * @author Aris Prabowo
- * IF10k
  * 10119914
+ * IF10K
  */
 public class Main {
 
